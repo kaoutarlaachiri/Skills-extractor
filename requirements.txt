@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.2
+Flask==2.3.2
+Flask-Cors==3.0.10
+Levenshtein==0.21.0
+mysql-connector-python==8.0.33
+nltk==3.8.1
+numpy==1.24.3
+pandarallel==1.6.5
+pandas==2.0.1
+regex==2023.5.5
+requests==2.30.0
+SQLAlchemy==2.0.15
+tqdm==4.65.0
+wikipedia==1.4.0
